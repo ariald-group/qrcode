@@ -4,7 +4,7 @@
   "description": "A PHP class to generate QR Code. Fork of ariald-group/qrcode with composer support ",
   "keywords": ["php", "qrcode"],
   "homepage": "https://github.com/ariald-group/qrcode",
-  "license": ["LGPL"],
+  "license": "GPL-3.0-or-later",
   "require": {
     "php": ">=5.3"
   },
