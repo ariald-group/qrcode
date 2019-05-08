@@ -1,0 +1,19 @@
+{
+  "name": "ariald-group/qrcode",
+  "type": "library",
+  "description": "A PHP class to generate QR Code. Fork of ariald-group/qrcode with composer support ",
+  "keywords": ["php", "qrcode"],
+  "homepage": "https://github.com/ariald-group/qrcode",
+  "license": ["LGPL"],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "files": ["qrlib.php"]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
