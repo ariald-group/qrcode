@@ -1,6 +1,7 @@
 {
   "name": "ariald-group/qrcode",
   "type": "library",
+  "version": "1.0.1",
   "description": "A PHP class to generate QR Code. Fork of ariald-group/qrcode with composer support ",
   "keywords": ["php", "qrcode"],
   "homepage": "https://github.com/ariald-group/qrcode",
